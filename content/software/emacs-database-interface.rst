@@ -94,15 +94,15 @@ Thank you for reading, I hope you enjoyed!
 .. |open-db-window| image:: https://github.com/jmercouris/john.mercouris.online/blob/master/content/images/edbi-dialog-open.png 
    :class: pure-img
 
-.. |sqlite-open| image:: {filename}/images/sqlite-open.png
+.. |sqlite-open| image:: https://github.com/jmercouris/john.mercouris.online/blob/master/content/images/sqlite-open.png
    :class: pure-img
 
-.. |edbi-database-view| image:: {filename}/images/edbi-database-view.png
+.. |edbi-database-view| image:: https://github.com/jmercouris/john.mercouris.online/blob/master/content/images/edbi-database-view.png
    :class: pure-img
 
-.. |edbi-help| image:: {filename}/images/edbi-help.png
+.. |edbi-help| image:: https://github.com/jmercouris/john.mercouris.online/blob/master/content/images/edbi-help.png
    :class: pure-img
 
-.. |edbi-query| image:: {filename}/images/edbi-query.png
+.. |edbi-query| image:: https://github.com/jmercouris/john.mercouris.online/blob/master/content/images/images/edbi-query.png
    :class: pure-img
 
