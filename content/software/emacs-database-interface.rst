@@ -91,8 +91,7 @@ modify, and traverse the data in more complex ways.
 
 Thank you for reading, I hope you enjoyed!
 
-.. |open-db-window| image::https://github.com/jmercouris/john.mercouris.online/blob/master/content/images/edbi-dialog-open.png
-   :class: pure-img
+.. |open-db-window| image:: https://github.com/jmercouris/john.mercouris.online/blob/master/content/images/edbi-dialog-open.png :class: pure-img
 
 .. |sqlite-open| image:: {filename}/images/sqlite-open.png
    :class: pure-img
