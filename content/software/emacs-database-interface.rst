@@ -103,6 +103,6 @@ Thank you for reading, I hope you enjoyed!
 .. |edbi-help| image:: https://github.com/jmercouris/john.mercouris.online/blob/master/content/images/edbi-help.png
    :class: pure-img
 
-.. |edbi-query| image:: https://github.com/jmercouris/john.mercouris.online/blob/master/content/images/images/edbi-query.png
+.. |edbi-query| image:: https://github.com/jmercouris/john.mercouris.online/blob/master/content/images/edbi-query.png
    :class: pure-img
 
